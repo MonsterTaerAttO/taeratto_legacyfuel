@@ -32,3 +32,5 @@ function StoreVehicleInGarage(vehicle)
     TriggerServerEvent('vehiclesStored', plate, fuelLevel)
 end
 ```
+
+Credit all: [InZidiuZ](https://github.com/InZidiuZ/LegacyFuel)
